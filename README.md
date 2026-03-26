@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Neural Network Approximation for Option Pricing
 
 This project demonstrates how a simple neural network can approximate the
@@ -28,3 +29,7 @@ python3 option_pricing_nn.py
 
 The script saves a scatter plot to `predicted_vs_actual.png` and also shows
 the training loss curve in `training_loss.png`.
+=======
+# neural-option-pricing
+A PyTorch project that uses a feedforward neural network to approximate Black-Scholes European call option pricing.
+>>>>>>> 6ec332c4d8d2dfdb6216339785bad7d4781bc8f0
